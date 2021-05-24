@@ -1,10 +1,10 @@
-#STOP USING THIS
+# STOP USING THIS
 https://github.com/h0rb/Phobos-1.9.0-Better-Compatibility
 use this one instead
 thanks
 
 
-# Phobos-1.9.0_Clean-and-Compatible
+
 this one looks like works with pyro 1.4.1. Still, there might be compatibility issues because of mixin configs or something idk have fun
 
 Update: It also works with Konas and future i think
